@@ -1,0 +1,66 @@
+html {
+    background: linear-gradient(177.52deg, #e4eaf6 2.11%, #d6e9ff 81.34%);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+}
+
+h2, footer {
+    font-family: 'Montserrat';
+}
+
+h1 {
+    font-family: 'Montserrat';
+    color: white;
+    align-items: center;
+    margin-bottom: 2rem;
+    margin-left: 31%;
+    
+}
+
+button {
+    border: none;
+    border-radius: 4px !important;
+    font-family: 'Montserrat';
+    background-color: transparent;
+}
+
+.btn-salvar {
+    margin-bottom: 50px;
+    background-color: rgb(92, 92, 217) !important;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: double 0.5px rgb(209, 209, 249);
+    
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+    font-family: Montserrat;
+}
+
+input {
+    border: none !important;
+    background: none;
+    color: black;
+    font-family: Montserrat;
+
+}
+
+div {
+    border-radius: 4px;
+    box-shadow: 0.5px -0.5px 2px rgb(250, 240, 240);
+}
+
+
+
